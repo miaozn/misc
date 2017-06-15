@@ -1,2 +1,2 @@
 # misc
-all kinds of miscellaneous
+all kinds of miscellaneous memo for myself
