@@ -1,2 +1,3 @@
 # misc
-all kinds of miscellaneous memo for myself
+all kinds of miscellaneous memo for myself   
+no more trash.. no more trash...
